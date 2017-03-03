@@ -1,0 +1,6 @@
+routines: 30
+bucket_type: "lmlm"
+bucket: "bb"
+riak_addr: "192.168.100.2:8087"
+riak_max_conn: 100
+total_key: 1000
