@@ -6,7 +6,7 @@ package main
 
 import (
   	riak "github.com/lmlala/riak-go/lib"
-	"baiwangmaoyi.com/common"
+	"github.com/lmlala/go-common"
 	"fmt"
 	"strconv"
 	//"time"

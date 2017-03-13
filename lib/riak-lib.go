@@ -7,7 +7,7 @@ package lib
 import (
 	"github.com/tpjg/goriakpbc"
   	//util "github.com/basho/taste-of-riak/go/util"
-	"baiwangmaoyi.com/common"
+	"github.com/lmlala/go-common"
 	//"sync"
 	//"fmt"
 )
